@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+artifacts/
+features/
+runs/
+generated/
+checkpoints/ESM2/*
+checkpoints/RiNALMo/*
+!checkpoints/ESM2/.gitkeep
+!checkpoints/RiNALMo/.gitkeep
